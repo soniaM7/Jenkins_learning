@@ -1,2 +1,3 @@
-# Jenkins_learning
-Jenkins related comit
+# maven-project
+
+Simple Maven Project
